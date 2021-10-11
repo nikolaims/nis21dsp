@@ -6,3 +6,4 @@
 1. 3.9.21 Введение в курс: [slides](https://docs.google.com/presentation/d/1xyzaPGSFVh4dnfxtwwg-tnwF9bFMlRB4b-nc2ctGB28). Пример использования теории из курса в контексте интерфейсов-мозг компьютер: [slides](https://docs.google.com/presentation/d/12UPVX2JmWUcboAkKvKfoj4xPu_IDHCvCM_yXM3x0AU0)
 2. 10.9.21 Занятие отменяется
 3. 17.9.21 Дискретные сигналы: [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture2.ipynb)
+4. 10.8.21 Дискретные сигналы (продолжение). Дискретные системы: [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture3.ipynb)
