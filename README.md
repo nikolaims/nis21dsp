@@ -7,3 +7,4 @@
 2. 17.9.21 Дискретные сигналы: [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture2.ipynb)
 3. 08.10.21 Дискретные сигналы (продолжение). Дискретные системы: [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture3.ipynb)
 4. 15.10.21 Дискретные  системы (продолжение): [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture4.ipynb)
+5. 29.10.21 Преобразование фурье дискретных сигналов (продолжение): [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture5.ipynb)
