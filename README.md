@@ -8,3 +8,8 @@
 3. 08.10.21 Дискретные сигналы (продолжение). Дискретные системы: [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture3.ipynb)
 4. 15.10.21 Дискретные  системы (продолжение): [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture4.ipynb)
 5. 29.10.21 Преобразование Фурье дискретных сигналов: [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture5.ipynb)
+6. 05.11.21 Дикретное преобразование Фурье: [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture6.ipynb)
+
+#### Контрольная работа: дедлайн - четверг 12.11.21 23:59
+- Задания, инструкция и полезные формулы: [pdf](https://drive.google.com/file/d/15vsje4WVsAjt8n2DvXLv_44UXPgDoYZ3/view?usp=sharing)
+- Разбор пробного варианта 0: [video](https://drive.google.com/file/d/16RX8Nj7BmhSDjyzuTWEX3Zl5UvJDCwsx/view?usp=sharing)
