@@ -13,3 +13,6 @@
 #### Контрольная работа: дедлайн - четверг 12.11.21 23:59
 - Задания, инструкция и полезные формулы: [pdf](https://drive.google.com/file/d/15vsje4WVsAjt8n2DvXLv_44UXPgDoYZ3/view?usp=sharing)
 - Разбор пробного варианта 0: [video](https://drive.google.com/file/d/16RX8Nj7BmhSDjyzuTWEX3Zl5UvJDCwsx/view?usp=sharing)
+
+### Часть 2. Цифровая обработка сигналов в Python
+1. 12.11.21 Short-time Fourier transform [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture7.ipynb)
