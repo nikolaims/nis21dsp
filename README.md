@@ -16,3 +16,8 @@
 
 ### Часть 2. Цифровая обработка сигналов в Python
 1. 12.11.21 Short-time Fourier transform [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture7.ipynb)
+2. 19.11.21 Разбор решения програмного проекта [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture8.ipynb)
+
+
+#### Программный проект: дедлайн - четверг 02.12.21 23:59
+- Инструкции и Kaggle-competition: [link](https://www.kaggle.com/t/7cfe69373da04c8c966036ad6c2d0567)
