@@ -18,6 +18,7 @@
 1. 12.11.21 Short-time Fourier transform [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture7.ipynb)
 2. 19.11.21 Разбор решения програмного проекта [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture8.ipynb)
 3. 26.11.21 Дизайн фильтров в scipy.signal [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture9.ipynb)
+4. 03.12.21 Обработка многоканальных данных, PCA, ICA [notebook](https://github.com/nikolaims/nis21dsp/blob/main/lectures/lecture10.ipynb)
 
 
 #### Программный проект: дедлайн - четверг 02.12.21 23:59
